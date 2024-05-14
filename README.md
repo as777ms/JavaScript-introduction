@@ -53,7 +53,7 @@ it was primitives in JS
 ```
 ```js
 Operator     Examples          Same As
-=             x = y 	       x = y
+=             x = y 	        x = y
 += 	      x += y 	        x = x + y
 -= 	      x -= y 	        x = x - y
 *= 	      x *= y 	        x = x * y
