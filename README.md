@@ -52,14 +52,14 @@ it was primitives in JS
 -- 	Decrement
 ```
 ```js
-Operator     Examples       Same As
+Operator     Examples          Same As
 =            x = y 	        x = y
 += 	      x += y 	        x = x + y
 -= 	      x -= y 	        x = x - y
 *= 	      x *= y 	        x = x * y
 /= 	      x /= y 	        x = x / y
 %= 	      x %= y 	        x = x % y
-**= 	      x **= y 	      x = x ** y
+**= 	      x **= y 	       x = x ** y
 ```
 
 >JavaScript Comparison Operators
